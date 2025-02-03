@@ -1,6 +1,6 @@
-# Object Detection for Self-Driving Cars using YOLO🚗
+# Object Detection for Self-Driving Cars using YOLO 🚗
 
-This repository contains a Jupyter Notebook demonstrating object detection using the YOLO (You Only Look Once) model. The dataset includes images captured from car-mounted cameras in various driving conditions.
+This repository contains a project demonstrating object detection using the YOLO (You Only Look Once) model. The dataset includes images captured from car-mounted cameras in various driving conditions.
 
 📌 Features
 Uses YOLO for real-time object detection.
