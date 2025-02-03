@@ -1,9 +1,9 @@
-# Object Detection for Self-Driving Cars
+# Object Detection for Self-Driving Cars using YOLO🚗
 
-What is YOLO?
+This repository contains a Jupyter Notebook demonstrating object detection using the YOLO (You Only Look Once) model. The dataset includes images captured from car-mounted cameras in various driving conditions.
 
-You Only Look Once (YOLO) is a cutting-edge object detection method that significantly speeds up and simplifies the process of identifying objects in images and videos. Unlike traditional approaches, YOLO treats object detection as a single step, predicting object positions and categories directly.
-By doing so, it achieves real-time detection without sacrificing accuracy. YOLO's neural network architecture processes images swiftly, making it valuable for applications like self-driving cars, surveillance, and robotics.
-YOLO's unique approach has revolutionized object detection by making it faster and more accessible while maintaining high performance.
-
-In this projcet we used is the output photos of the camera installed on the car in different situtation and positions which is used for training and testing autonomous vehicle systems and is crucial for developing and evaluating the performance of self-driving algorithms and models and we used YOLOv8 for Object Detection.
+📌 Features
+Uses YOLO for real-time object detection.
+Processes images from an autonomous vehicle dataset.
+Utilizes OpenCV, NumPy, Pandas, and Matplotlib for image processing and visualization.
+Helps in detecting objects like pedestrians, vehicles, and road signs for autonomous driving applications.
