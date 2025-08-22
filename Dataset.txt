@@ -1,4 +1,0 @@
-https://www.kaggle.com/datasets/mbsoroush/car-camera-photos
-
-You can also check out the notebook in my Kaggle profile with the link provided 
-in the this repository.
